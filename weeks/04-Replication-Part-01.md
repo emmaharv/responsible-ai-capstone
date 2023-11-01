@@ -30,7 +30,6 @@ Please read the following:
 * Submit your answers to [next week’s](https://emmaharv.github.io/responsible-ai-capstone/weeks/05-AI-Regulations/) participation questions to Gradescope by 10AM PT on Thursday, October 27th
 * Get started on your [Q1 Project Checkpoint](https://dsc-capstone.github.io/assignments/projects/q1/), due October 30th 
 * [Replication Project Part 01: EDA](https://github.com/emmaharv/responsible-ai-capstone/blob/972600dd865423247067afd546fd224e8c0bd7e1/notes/week-04/replication-project-part-01-eda.ipynb)
-  * Replication Office Hours: Mondays, 1-2pm PT (4-5pm ET)
 
 ---
 [Go back to Home](https://emmaharv.github.io/responsible-ai-capstone/)
