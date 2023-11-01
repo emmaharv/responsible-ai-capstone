@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Responsible AI"
-doodle: "/robot_justice.png"
+doodle: "/robot_justice.PNG"
 permalink: /
 ---
 
@@ -63,7 +63,7 @@ Students are responsible for completing the readings in full prior to the start 
 and discuss the results of these tasks. 
 
 ### In-class Participation Questions (5%)
-* Prior to class, Students must post responses to participation questions for that week's assigned reading (see: [Schedule](https://github.com/nanrahman/capstone-responsible-ai/edit/master/index.md#schedule)). Responses should be submitted on [Gradescope](https://www.gradescope.com/courses/442598) **24 hours prior to the start of each class session**
+* Prior to class, Students must post responses to participation questions for that week's assigned reading (see: [Schedule](#schedule)). Responses should be submitted on Gradescope **24 hours prior to the start of each class session**
 
 ### In-class Brief (5%)
 Each student is responsible for preparing one five-minute in-class brief on one of the academic papers assigned as readings. 
@@ -71,7 +71,7 @@ Each student is responsible for preparing one five-minute in-class brief on one 
 * Reading presentations are due via Gradescope prior to the start of the session for which the reading is assigned; students are also responsible for presenting to the rest of the class during the session. Presentations should take five minutes. 
 
 ### Written Assignments (5%)
-* For each writeup prompt (see: [Schedule](https://github.com/nanrahman/capstone-responsible-ai/edit/master/index.md#schedule)), students are responsible for responding in at least 500 words (one single-spaced page). Writeups are due via Gradescope before the start of the session in which they are due. 
+* For each writeup prompt (see: [Schedule](#schedule)), students are responsible for responding in at least 500 words (one single-spaced page). Writeups are due via Gradescope before the start of the session in which they are due. 
 
 ### Grading
 Please see the [Capstone Program Syllabus](https://dsc-capstone.github.io/syllabus/) for a detailed description of the assignment weights and rubric. 
