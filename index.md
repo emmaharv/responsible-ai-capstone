@@ -7,7 +7,7 @@ permalink: /
 
 # DSC180-A05, Data science capstone: Responsible AI 
 
-| Q1 Fall 2022 | [Classes held on **Zoom**](https://ucsd.zoom.us/j/96921239764) | Fridays at 10AM PT |
+| Q1 Fall 2022 | Classes held on **Zoom** | Fridays at 10AM PT |
 
 
 ### Developed by David Danks, Jeffry Liu, Nandita Rahman, Aritra Nath, Emma Harvey, Meira Gilbert, and Rasmus Nielsen.
@@ -31,19 +31,18 @@ areas:**
 ### Instructor: Dr. David Danks
 David Danks is a Professor of Data Science & Philosophy at University of California, San Diego as well as affiliate faculty in UCSD’s Department of Computer Science & Engineering. He serves on advisory boards for various organizations including: National AI Advisory Committee (NAIAC), Special Competitive Studies Project (SCSP), Partnership to Advance Responsible Technology (PART), Center for Advancing Safety of Machine Intelligence (CASMI), Topos Institute, AI Community of Practice (US Government), and Grefenstette Center for Ethics in Science, Tech., & Law. He has received a James S. McDonnell Foundation Scholar Award (2008) and an Andrew Carnegie Fellowship (2017). Previously, he was the L.L. Thurstone Professor of Philosophy & Psychology at Carnegie Mellon University. While at CMU, he served as the Chief Ethicist of CMU’s Block Center for Technology & Society and co-director of CMU’s Center for Informed Democracy and Social Cybersecurity (IDeaS). 
 
-### Industry Partner: Deloitte, Trustworthy AI Team
-As one of the largest professional services organizations in the United States, Deloitte provides a vast array of information security services across 2,800 engagements in major commercial industries and 15 cabinet-level federal agencies. Our Trustworthy AI team has helped many of our clients work through the burgeoning regulatory landscape and growing awareness around ethical and trustworthy AI. For this course, the Deloitte team will consist of Rasmus Nielsen, Aritra Nath, Emma Harvey, Nandita Rahman, Meira Gilbert, and Jeffry Liu. We’re excited to work with UCSD in developing this course, and we look forward to discussing these exciting topics with you.
+### Industry Partner
+Our Trustworthy AI team has helped many of our clients work through the burgeoning regulatory landscape and growing awareness around ethical and trustworthy AI. For this course, the team will consist of Rasmus Nielsen, Aritra Nath, Emma Harvey, Nandita Rahman, Meira Gilbert, and Jeffry Liu. We’re excited to work with UCSD in developing this course, and we look forward to discussing these exciting topics with you.
 
 # Course Resources
 ### Office Hours
 * Professor Danks will hold office hours Wednesdays 1-2PM (PT) in UC 302, Room 101 
-* Replication Project: Nandita Rahman (Replication PoC) will hold office hours Mondays 1-2pm (PT) for assistance with replication project materials, held [virtually](https://github.com/nanrahman/capstone-responsible-ai/blob/b48a0f37b19f266e5b32430ee4b85b92b215e826/notes/week-04/replication-office-hour-zoom-info.md)
+* Replication Project: Nandita Rahman (Replication PoC) will hold office hours Mondays 1-2pm (PT) for assistance with replication project materials, held virtually
 
 ### Course Communications
-Please send any questions to the Responsible AI Slack Channel: 
-* Slack Channel link: [Responsible AI Capstone](responsibleaicapstone.slack.com)
-* For any issues with Slack, email David Danks (ddanks@ucsd.edu)
-* For private or personal questions, you can reach out to David privately via email (ddanks@ucsd.edu)
+Please send any questions to the Responsible AI Slack Channel.
+* For any issues with Slack, email David Danks
+* For private or personal questions, you can reach out to David privately via email
 
 
 # Course Expectations and Assignments
@@ -68,7 +67,7 @@ and discuss the results of these tasks.
 
 ### In-class Brief (5%)
 Each student is responsible for preparing one five-minute in-class brief on one of the academic papers assigned as readings. 
-* Following the first session, students will have the opportunity to [sign up](https://docs.google.com/spreadsheets/d/1DNA4mQLQmbhFEtm74PEPsUDTEGx0pK_BFzlQcltFaMg/edit?usp=sharing) to present on one of the course readings. Students are responsible for creating a PowerPoint presentation summarizing the reading, including its background, methodology, argument/key contributions, and their thoughts on the implications/impact of the article. 
+* Following the first session, students will have the opportunity to sign up to present on one of the course readings. Students are responsible for creating a PowerPoint presentation summarizing the reading, including its background, methodology, argument/key contributions, and their thoughts on the implications/impact of the article. 
 * Reading presentations are due via Gradescope prior to the start of the session for which the reading is assigned; students are also responsible for presenting to the rest of the class during the session. Presentations should take five minutes. 
 
 ### Written Assignments (5%)
