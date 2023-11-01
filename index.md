@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Responsible AI"
-doodle: "/doodle.png"
+doodle: "/robot_justice.png"
 permalink: /
 ---
 
