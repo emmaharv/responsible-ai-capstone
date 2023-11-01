@@ -24,20 +24,16 @@ _Submit to Gradescope by 10AM PT on Thursday, November 3rd_
 * Can you think of any types of fairness other than individual and group? How would you measure them?
 
 ## This Week's Slides
-* [Week 06: Replication Project Part 2 & Fairness Assessments](https://github.com/nanrahman/capstone-responsible-ai/blob/669855ff9660ab81b0872e60298fdee1dae98fb1/notes/week-06/week_6_slides.pdf)
+* [Week 06: Replication Project Part 2 & Fairness Assessments](https://github.com/emmaharv/responsible-ai-capstone/blob/90fc3c67cfc306a1eabe3dbe001149970661ffc3/notes/week-06/week_6_slides.pdf)
 
 ## Assigned for Week 07
-* Complete [Replication Part 02: Model Development and Fairness Assessment](https://github.com/nanrahman/capstone-responsible-ai/blob/fa968aec5d392ac1036cf795ca93e8d084e847ec/notes/week-06/replication-project-part-02-model-dev-fairness-eval.ipynb)
-* Complete [next week’s](https://nanrahman.github.io/capstone-responsible-ai/weeks/07-Bias-Mitigation/) readings
+* Complete [Replication Part 02: Model Development and Fairness Assessment](https://github.com/emmaharv/responsible-ai-capstone/blob/90fc3c67cfc306a1eabe3dbe001149970661ffc3/notes/week-06/replication-project-part-02-model-dev-fairness-eval.ipynb)
+* Complete [next week’s](https://emmaharv.github.io/responsible-ai-capstone/weeks/07-Bias-Mitigation/) readings
     * If you signed up to present on [**Model Cards for Model Reporting**](https://arxiv.org/abs/1810.03993) (Mitchell et al.) or [**Fairness Through Awareness**](https://arxiv.org/abs/1104.3913) (Dwork et al.) come prepared to present next week and submit your presentation on Gradescope by **10AM PT on Thursday, November 10th (note the different time!)**
-* Submit your answers to [next week’s](https://nanrahman.github.io/capstone-responsible-ai/weeks/07-Bias-Mitigation/) participation questions to Gradescope by 10AM PT on Thursday, November 10th
+* Submit your answers to [next week’s](https://emmaharv.github.io/responsible-ai-capstone/weeks/07-Bias-Mitigation/) participation questions to Gradescope by 10AM PT on Thursday, November 10th
 * Remember that Week 7's class is **rescheduled to 12:30PM PT on Thursday, November 10th**!
 
-## Office Hours for Replication Project
-* Mondays from 1-2pm PT (4-5pm ET)
-* Nandita hosting virtually - [Zoom link](https://github.com/nanrahman/capstone-responsible-ai/blob/85fa88b88441f0dcd04e9fa84519ab0aa7090df2/notes/week-04/replication-office-hour-zoom-info.md)
-
 ---
-[Go back to Home](https://nanrahman.github.io/capstone-responsible-ai/)
+[Go back to Home](https://emmaharv.github.io/responsible-ai-capstone/)
 ---
 
